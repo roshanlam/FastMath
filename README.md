@@ -19,7 +19,7 @@
     <a href="https://github.com/roshanlam/FastMath/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/roshanlam/FastMath/">View Demo</a>
+    <a href="https://github.com/roshanlam/FastMath/test.py">View Example</a>
     ·
     <a href="https://github.com/roshanlam/FastMath/issues">Report Bug</a>
     ·
