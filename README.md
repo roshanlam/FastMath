@@ -49,6 +49,7 @@ Nothing For Now
 
 ## ToDo
 - [ ] Add more fomulas that are long and helpful
+- [ ] Create a logo for FastMath
 
 ## Contributing
 
