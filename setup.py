@@ -5,13 +5,13 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="fastmath", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Roshan Lamichhane",
     author_email="roshanlamichhanenepali@gmail.com",
     description="A math libary for easier use of math formulas",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/roshanlam/",
+    url="https://github.com/roshanlam/FastMath",
     packages=setuptools.find_packages(),
     keywords = ['ROSHAN LAMICHHANE', 'ROSHAN', 'FAST MATH', 'FASTMATH'],
     classifiers=[
