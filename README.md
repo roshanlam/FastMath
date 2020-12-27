@@ -47,7 +47,7 @@ Nothing For Now
 * pip3 install fastmath
 
 ## ToDo
-[ ] Add more fomulas that are long and helpful
+- [ ] Add more fomulas that are long and helpful
 
 ## Contributing
 
