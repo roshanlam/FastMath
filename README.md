@@ -37,6 +37,7 @@
 * [Installation](#installation)
 * [Contributing](#contributing)
 * [ToDo](#ToDo)
+* [Usage](#Usage)
 
 ### Prerequisites
 
