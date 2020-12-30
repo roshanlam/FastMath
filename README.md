@@ -7,7 +7,7 @@
   <h3 align="center">FastMath</h3>
 
   <p align="center">
-    A Read Me template for your projects!
+    A Soon To Be The Best Math Library In Python
     <br />
     <a href="https://github.com/roshanlam/FastMath/README.md"><strong>Explore the docs »</strong></a>
     <br />
