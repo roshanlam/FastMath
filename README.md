@@ -26,10 +26,11 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [Prerequisites](#prerequisites)
-* [Installation](#installation)
-* [Contributing](#contributing)
-* [ToDo](#ToDo)
+- [Table of Contents](#table-of-contents)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [ToDo](#todo)
+- [Contributing](#contributing)
 
 ### Prerequisites
 
