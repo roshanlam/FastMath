@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-numpy
-tensorflow
-=======
 
->>>>>>> MartinKondor-feature/better_usage
