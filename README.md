@@ -41,8 +41,9 @@ Nothing For Now
 * pip3 install fastmath
 
 ## ToDo
-- [ ] Add more fomulas that are long and helpful
+- [ ] Add more formulas that are long and helpful
 - [ ] Create a logo for FastMath
+- [ ] Publish the next version on pypi with 10 - 20 helpful math formulas
 
 ## Contributing
 
