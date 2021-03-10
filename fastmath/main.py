@@ -1,18 +1,36 @@
+<<<<<<< HEAD
 from .lib import *
 from .trig import *
+=======
+<<<<<<< HEAD
+from lib import *
+from trig import *
+=======
+# importing complex math formulas
+# basic formulas will be in the main.py file
+import math
+
+from .lib import *
+
+>>>>>>> 0cd6b73977149b6af5be7ae2b25b7ff57248cd75
+>>>>>>> MartinKondor-feature/better_usage
 
 def add(num1, num2):
     return num1 + num2 
 
+
 def sub(num1, num2):
     return num1 - num2
+
 
 def mul(num1, num2):
     return num1 * num2
 
+
 def div(num1, num2):
     return num1 / num2
 
+<<<<<<< HEAD
 def circle_area(num1):
                 # radius
     return 3.14 * pow(num1, 2)
@@ -73,4 +91,8 @@ def ln(num1):
     return integrate(lambda n: 1/n, 1, num1)
 
 fact = lambda n: (lambda f, n: f(f, n))(lambda f, n: n * f(f, n-1) if n > 1 else 1, n)
+=======
+>>>>>>> 0cd6b73977149b6af5be7ae2b25b7ff57248cd75
 
+def circle_area(radius):
+    return math.pi * pow(radius, 2)

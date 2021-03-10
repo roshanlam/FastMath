@@ -1,10 +1,3 @@
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
-
-
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/roshanlam/FastMath/">
@@ -14,7 +7,7 @@
   <h3 align="center">FastMath</h3>
 
   <p align="center">
-    A Read Me template for your projects!
+    A Soon To Be The Best Math Library In Python
     <br />
     <a href="https://github.com/roshanlam/FastMath/README.md"><strong>Explore the docs »</strong></a>
     <br />
@@ -33,11 +26,19 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
+<<<<<<< HEAD
 * [Prerequisites](#prerequisites)
 * [Installation](#installation)
 * [Contributing](#contributing)
 * [ToDo](#ToDo)
 * [Usage](#Usage)
+=======
+- [Table of Contents](#table-of-contents)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [ToDo](#todo)
+- [Contributing](#contributing)
+>>>>>>> 0cd6b73977149b6af5be7ae2b25b7ff57248cd75
 
 ### Prerequisites
 
@@ -123,6 +124,7 @@ To do Root Mean Square:
 
 ## ToDo
 - [ ] Add more fomulas that are long and helpful
+- [ ] Create a logo for FastMath
 
 ## Contributing
 
@@ -133,14 +135,3 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/roshanlam/FastMath?style=for-the-badge
-[forks-url]: https://github.com/roshanlam/FastMath/network/members
-[stars-shield]: https://img.shields.io/github/stars/roshanlam/FastMath?style=for-the-badge
-[stars-url]: https://github.com/roshanlam/FastMath/stargazers
-[issues-shield]: https://img.shields.io/github/issues/roshanlam/FastMath?style=for-the-badge
-[issues-url]: https://github.com/roshanlam/FastMath/issues
