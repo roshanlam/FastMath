@@ -26,19 +26,11 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-<<<<<<< HEAD
-* [Prerequisites](#prerequisites)
-* [Installation](#installation)
-* [Contributing](#contributing)
-* [ToDo](#ToDo)
-* [Usage](#Usage)
-=======
 - [Table of Contents](#table-of-contents)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [ToDo](#todo)
 - [Contributing](#contributing)
->>>>>>> 0cd6b73977149b6af5be7ae2b25b7ff57248cd75
 
 ### Prerequisites
 
