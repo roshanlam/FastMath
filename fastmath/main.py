@@ -1,5 +1,5 @@
-from lib import *
-from trig import *
+from .lib import *
+from .trig import *
 
 def add(num1, num2):
     return num1 + num2 
