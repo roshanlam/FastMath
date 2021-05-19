@@ -26,10 +26,11 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [Prerequisites](#prerequisites)
-* [Installation](#installation)
-* [Contributing](#contributing)
-* [ToDo](#ToDo)
+- [Table of Contents](#table-of-contents)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [ToDo](#todo)
+- [Contributing](#contributing)
 
 ### Prerequisites
 
@@ -37,13 +38,76 @@ Nothing For Now
 
 ### Installation
 
-* git clone 
 * pip3 install fastmath
 
-## ToDo
-- [ ] Add more formulas that are long and helpful
-- [ ] Create a logo for FastMath
-- [ ] Publish the next version on pypi with 10 - 20 helpful math formulas
+## Usage
+
+To add numbers do: `add(1, 2)`
+
+This is the same as 1 + 2
+
+To subtract do: `sub(2, 3)`
+
+This is the same as 2 - 3
+
+To multiply do: `mul(2, 2)`
+
+This is the same as 2 * 2
+
+To divide do:`div(4, 2)`
+
+This is the same as 4 / 2
+
+To caculate the area of a circle do:
+
+`circle_area(5)`
+
+This is the same as 5^2 * 3.14
+
+To use the quadratic formula do:
+
+`qudratic(6, 17, 12)`
+
+This is the same as (-17 (+ or -) sqrt(17^2 - 4 * 6 * 12)) / 2 * 6
+
+To do factorial:
+
+`fac(2)`
+
+This is the same as !2
+
+To do natural logarithm:
+
+`ln(2)`
+
+
+To do square root:
+
+`sqrt(4)`
+
+This is the same as √4
+
+To do sine:
+
+`sin(45)`
+
+To do cosine:
+
+`cos(45)`
+
+To do tangent:
+`tan(45)`
+
+
+To do cotangent:
+`cot(45)`
+
+To do cosecant:
+`csc(45)`
+
+To do secant:
+
+`sec(45)`
 
 ## Contributing
 
