@@ -1,10 +1,6 @@
 import math
 
 from fastmath import *
-<<<<<<< HEAD
-print(qudratic(6,17,12))
-=======
-
 
 def test(func, desired_result, *params):
     res = func(*params)
@@ -23,7 +19,6 @@ TESTS = [
 
 print('\nRunning tests ...\n')
 
-<<<<<<< HEAD
 for TEST in TESTS:
     print(TEST[0], end='\t=>\t')
     res = test(*TEST[1:])
@@ -31,8 +26,3 @@ for TEST in TESTS:
     print('SUCCESSFUL' if res[0] else 'FAILED')
 
 print('\ndone\n')
->>>>>>> MartinKondor-feature/better_usage
-=======
-print(div(4, 2))
-print(circle_area(5))
->>>>>>> 3859a679e61b417d72fc6ceda49c673a3a6b5c35

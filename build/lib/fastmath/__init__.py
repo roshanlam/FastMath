@@ -1,4 +1,4 @@
-from .main import *
 from .lib import *
+from .main import *
 from .stats import *
-from calculus import *
+from .trig import *
