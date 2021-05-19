@@ -4,8 +4,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="fastmath", # Replace with your own username
-    version="0.0.2",
+    name="fastmath",
+    version="0.0.7",
     author="Roshan Lamichhane",
     author_email="roshanlamichhanenepali@gmail.com",
     description="A math libary for easier use of math formulas",
@@ -19,5 +19,5 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.6',
+    python_requires='>=3.7',
 )
