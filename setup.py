@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="fastmath",
-    version="0.0.3",
+    version="0.0.4",
     author="Roshan Lamichhane",
     author_email="roshanlamichhanenepali@gmail.com",
     description="A math libary for easier use of math formulas",

@@ -3,6 +3,9 @@ setup.py
 fastmath/__init__.py
 fastmath/lib.py
 fastmath/main.py
+fastmath/stats.py
+fastmath/test.py
+fastmath/trig.py
 fastmath.egg-info/PKG-INFO
 fastmath.egg-info/SOURCES.txt
 fastmath.egg-info/dependency_links.txt

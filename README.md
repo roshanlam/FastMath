@@ -26,19 +26,11 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-<<<<<<< HEAD
-* [Prerequisites](#prerequisites)
-* [Installation](#installation)
-* [Contributing](#contributing)
-* [ToDo](#ToDo)
-* [Usage](#Usage)
-=======
 - [Table of Contents](#table-of-contents)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [ToDo](#todo)
 - [Contributing](#contributing)
->>>>>>> 0cd6b73977149b6af5be7ae2b25b7ff57248cd75
 
 ### Prerequisites
 
@@ -46,7 +38,6 @@ Nothing For Now
 
 ### Installation
 
-* git clone 
 * pip3 install fastmath
 
 ## Usage
@@ -117,14 +108,6 @@ To do cosecant:
 To do secant:
 
 `sec(45)`
-
-To do Root Mean Square:
-
-`rms([1, 2, 3])` or `rms((1, 2, 3))`
-
-## ToDo
-- [ ] Add more fomulas that are long and helpful
-- [ ] Create a logo for FastMath
 
 ## Contributing
 
