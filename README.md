@@ -110,6 +110,7 @@ To do secant:
 
 ## ToDo
 -[ ] Add More Math Formulas
+ 
 -[ ] Make code faster
 
 ## Contributing
