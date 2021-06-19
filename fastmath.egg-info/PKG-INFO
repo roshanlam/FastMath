@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: fastmath
-Version: 0.0.7
+Version: 0.0.85
 Summary: A math libary for easier use of math formulas
 Home-page: https://github.com/roshanlam/FastMath
 Author: Roshan Lamichhane
@@ -28,7 +28,6 @@ Description: <br />
             ·
             <a href="https://github.com/roshanlam/FastMath/pulls">Send a Pull Request</a>
           </p>
-        </p>
         
         
         <!-- TABLE OF CONTENTS -->
@@ -42,7 +41,7 @@ Description: <br />
         
         ### Prerequisites
         
-        Nothing For Now
+        Numpy
         
         ### Installation
         
@@ -116,6 +115,11 @@ Description: <br />
         To do secant:
         
         `sec(45)`
+        
+        ## ToDo
+        -[ ] Add More Math Formulas
+        -[ ] Make code faster
+        -[ ] 
         
         ## Contributing
         
