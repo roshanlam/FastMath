@@ -20,7 +20,6 @@
     ·
     <a href="https://github.com/roshanlam/FastMath/pulls">Send a Pull Request</a>
   </p>
-</p>
 
 
 <!-- TABLE OF CONTENTS -->
@@ -34,7 +33,7 @@
 
 ### Prerequisites
 
-Nothing For Now
+Numpy
 
 ### Installation
 
@@ -108,6 +107,11 @@ To do cosecant:
 To do secant:
 
 `sec(45)`
+
+## ToDo
+- [ ] Add More Math Formulas
+ 
+- [ ] Make code faster
 
 ## Contributing
 

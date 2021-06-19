@@ -2,8 +2,11 @@ LICENSE
 README.md
 setup.py
 fastmath/__init__.py
+fastmath/cosine_sim.py
+fastmath/gaussain.py
 fastmath/lib.py
 fastmath/main.py
+fastmath/sigmoid.py
 fastmath/stats.py
 fastmath/test.py
 fastmath/trig.py
