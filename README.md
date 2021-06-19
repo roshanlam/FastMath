@@ -109,9 +109,9 @@ To do secant:
 `sec(45)`
 
 ## ToDo
--[  ] Add More Math Formulas
+- [ ] Add More Math Formulas
  
--[  ] Make code faster
+- [ ] Make code faster
 
 ## Contributing
 
